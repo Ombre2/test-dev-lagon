@@ -1,5 +1,7 @@
 # Test Technique de Développeur Frontend
 
+php artisan key:generate
+
 # **Objectif**
 
 Réaliser l'intégration d'une landing page à partir d'une maquette fournie. Vous utiliserez **Laravel** pour la structure de l'application, **TailwindCSS** pour la mise en page et les styles, et, si nécessaire, **Vue.js** pour des interactions dynamiques.
